@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fancher37
 - 👀 I’m interested in Programming & Software Development
-- 🌱 I’m currently learning C++ at NWSCC
+- 🌱 I’m currently learning Computer Science at the University of Alabama
 - 📫 How to reach me afanccher1@crimson.ua.edu
 
 <!---
